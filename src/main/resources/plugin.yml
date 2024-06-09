@@ -1,0 +1,4 @@
+name: WUnbreakable
+version: '${version}'
+main: me.penguin.wunbreakable.WUnbreakable
+api-version: '1.16'
